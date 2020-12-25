@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:-1, 30A Music
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1, Afrobit
+http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8
+#EXTINF:-1, AlbMUSIC (Albania)
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1, Brandnite TV (Germany)
+https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
+#EXTINF:-1, Cine Voice (India)
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:-1, Credo TV (Romania)
+http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+EPG Code: CredoTV.ro
+#EXTINF:-1, Deutsches Musik Fernsehen (Germany)
+http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
+EPG Code: DeutschesMusikFernsehen.de
+#EXTINF:-1, EUROAL (Albania)
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+#EXTINF:-1, Fresh TV (Russia)
+https://strm.yandex.ru/kal/fresh/fresh0.m3u8
+#EXTINF:-1, GO-RTV (Netherlands)
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1, Go TV (Austria)
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
+#EXTINF:-1, Karaoke Channel (Indonesia)
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1, Kral Pop (Turkey)
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+EPG Code: KralPop.tr
+#EXTINF:-1, Radio 21 TV (Germany)
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1, Radio Pilatus TV (Swiss)
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1, Teins – Tiroler Heimat Fernsehen (Austria)
+http://live1.markenfunk.com/t1/live/chunklist.m3u8
